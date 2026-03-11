@@ -6,3 +6,6 @@ this is a change
 another change test. Extra sentence
 
 New line
+
+
+Squash line
